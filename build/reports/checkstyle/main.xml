@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/home/pc111/calculator/src/main/java/com/pc1111/calculator/Calculator.java">
+</file>
+<file name="/home/pc111/calculator/src/main/java/com/pc1111/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/pc111/calculator/src/main/java/com/pc1111/calculator/CalculatorController.java">
+</file>
+</checkstyle>
