@@ -8,4 +8,8 @@ public class CalculatorTest {
 	public void testSum() {
 		assertEquals(5, calculator.sum(2, 3));
 	}
+	
+	public void testMul() {
+		assertEquals(6, calculator.mul(2, 3));
+	}
 }
